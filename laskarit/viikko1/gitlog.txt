@@ -1,0 +1,65 @@
+commit 887b7e464a221232e36e5c9698ec7329cb06d8f3
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 14:33:13 2019 +0300
+
+    file x 3
+
+ eka.txt~         | 1 +
+ kolmas.txt~      | 3 ++-
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 5 files changed, 3 insertions(+), 1 deletion(-)
+
+commit b7c3432d228691c70da7b128efac474632da7a7e
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 14:18:09 2019 +0300
+
+    stuff, muutosta lisää
+
+ eka.txt                   | 18 ++++++++++++++++++
+ eka.txt~                  | 17 +++++++++++++++++
+ kolmas.txt                |  2 ++
+ kolmas.txt~               |  1 +
+ tiedosto.txt              |  1 -
+ tiedosto.txt~             | 12 ++++++++++++
+ toinen.txt => toinen.txt~ |  0
+ 7 files changed, 50 insertions(+), 1 deletion(-)
+
+commit 90cda7ff376295e174c53a1237ee6138bd1ff5dd
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 13:47:19 2019 +0300
+
+    stuff, muutos ja lisäys
+
+ stuff/stuffi.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit ef14be96443903d313b0b58e5506c3ffce269e2d
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 13:43:53 2019 +0300
+
+    muutos ja lisäys3
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 41b13984a253e9a68ef8f4c10c1cb993d70629b2
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 13:39:33 2019 +0300
+
+    muutos ja lisäys
+
+ tiedosto.txt  | 1 +
+ tiedosto.txt~ | 0
+ toinen.txt    | 0
+ 3 files changed, 1 insertion(+)
+
+commit b3209c0d1627a9a0a3a7d4b28b5b9ef1146756b9
+Author: Ismo Lapinleimu <ismo.lapinleimu@tuni.fi>
+Date:   Sat Jul 6 13:34:58 2019 +0300
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
