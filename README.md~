@@ -9,7 +9,3 @@ Tää siis tehtävään lisää tiedostoja (linkit):
 [Gitlog-tiedosto](https://github.com/leisku/otharjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 [komentorivi](https://github.com/leisku/otharjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-
-Muutos pull-komennon jälkeen. Joutuis muuten tekeen muodossa:
-git pull git@github.com:tunnus/otharhoitustyo
-
