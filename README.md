@@ -1,4 +1,4 @@
-*HARJOITUKSEN PÄÄOTSIKKO**
+*HARJOITUKSEN PÄÄOTSIKKO*
 
 Sitten piti turinoida tekstiä, jossa
 näin *italiccii* ja boldii: **lihavoitu**
